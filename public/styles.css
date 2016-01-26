@@ -12,3 +12,11 @@ input{
   font-size: 25px;
   line-height: 40px;
 }
+
+.btn-success {
+  background-color: #000
+}
+
+.btn-success:hover {
+  background-color: #7f8c8d
+}
