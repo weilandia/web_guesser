@@ -1,3 +1,3 @@
-# web-guesser
+# Web Guesser
 
-A simple Sinatra application for Turing School Module 2.
+A simple Sinatra application for Turing Module 2.
