@@ -1,3 +1,3 @@
 # Web Guesser
 
-A simple Sinatra application for Turing Module 2.
+A simple number guessing game built on Sinatra.
