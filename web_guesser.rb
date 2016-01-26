@@ -1,5 +1,8 @@
 require 'sinatra'
+require 'sinatra/reloader'
+
+NUMBER = rand(100)
 
 get '/' do
-  "Hello, World"
+  erb :index, :locals => { :number => NUMBER }
 end
